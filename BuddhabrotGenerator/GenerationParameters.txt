@@ -1,0 +1,10 @@
+highres_1.png:
+	const Complex MINIMUM(-2.0, -2.0);
+	const Complex MAXIMUM(1.0, 2.0);
+	const int IMAGE_HEIGHT = 4000;
+	const int IMAGE_WIDTH = 4000;
+
+	const int RED_ITERS = 100;
+	const int BLUE_ITERS = 30;
+	const int GREEN_ITERS = 2500;
+
